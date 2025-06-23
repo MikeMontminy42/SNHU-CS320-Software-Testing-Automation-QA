@@ -1,5 +1,6 @@
 # SNHU-CS320-Software-Testing-Automation-QA
 
+This is a collection of some of the course work I completed in CS-320 at SNHU.
 
 # Ensuring Functional Products
 
